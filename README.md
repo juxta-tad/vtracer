@@ -4,7 +4,7 @@
   <h1>VTracer</h1>
 
   <p>
-    <strong>Raster to Vector Graphics Converter built on top of visioncortex</strong>
+    <strong>Raster to Vector Graphics Converter</strong>
   </p>
 
   <h3>
